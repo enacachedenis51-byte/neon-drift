@@ -1,0 +1,1 @@
+Estrai tutti i file nella stessa cartella. Apri la cartella in VS Code e index.html nel browser. Il CSS è vuoto: segui la consegna sulla piattaforma. Asset originali didattici creati con codice da Codex, riutilizzabili nel progetto. Nessun JavaScript.
